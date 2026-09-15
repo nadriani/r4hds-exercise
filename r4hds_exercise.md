@@ -94,28 +94,28 @@ structure through headings quotes, and other features,
 
 Try formatting the plain text below to match the formatting in the image
 
-The Role of Health Data Science  
+The Role of Health Data Science\
 Health data science is a multidisciplinary field that transforms raw
 data into meaningful insights. It combines statistics, computing, and
-domain knowledge to improve health outcomes.  
+domain knowledge to improve health outcomes.\
 A data scientist is part statistician, part computer scientist, and part
 storyteller — someone who turns data into decisions.
 
-Why It Matters  
-Early diagnosis — spotting hidden patterns in patient data.  
+Why It Matters\
+Early diagnosis — spotting hidden patterns in patient data.\
 Predictive modelling — forecasting hospital admissions and resource
-use.  
+use.\
 Evidence sharing — platforms like Our World in Data make global health
 information accessible.
 
-Tools and Methods  
-Programming languages: R, Python  
-Visualization techniques: interactive dashboards, static reports  
+Tools and Methods\
+Programming languages: R, Python\
+Visualization techniques: interactive dashboards, static reports\
 Reproducibility with R Markdown and Quarto
 
-Looking Ahead  
-The future of health data science will rely on:  
-Outdated methods replaced by adaptive algorithms  
+Looking Ahead\
+The future of health data science will rely on:\
+Outdated methods replaced by adaptive algorithms\
 Integration of real-time health monitoring Greater transparency through
 open science
 
@@ -127,7 +127,7 @@ A code chunk is introduced with three backticks, followed by {r}, and
 then closed with three backticks. For example:
 
 ```` markdown
-``` {r demo}
+```{r demo}
 
 2 + 2
 
