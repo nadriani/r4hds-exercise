@@ -5,6 +5,8 @@ author: "Mark Hanly"
 output: github_document
 ---
 
+Hello there. This is a demo.
+
 ```{r setup, include=FALSE}
 # Load libraries
 library(knitr)
